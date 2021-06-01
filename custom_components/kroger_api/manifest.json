@@ -1,0 +1,12 @@
+{
+  "domain": "kroger",
+  "name": "Kroger API",
+  "version": "0.1.0",
+  "documentation": "https://www.github.com/constructorfleet/HomeAssistant-Component-Kroger",
+  "dependencies": [],
+  "codeowners": [
+    "@Teagan42"
+  ],
+  "requirements": [],
+  "iot_class": "assumed_state"
+}
